@@ -1,0 +1,8 @@
+name: mysql
+
+topology:
+  nodes:
+    db:
+      kind: linux
+      image: mysql:8.0.44-debian
+      
