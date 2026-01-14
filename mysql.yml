@@ -4,5 +4,5 @@ topology:
   nodes:
     db:
       kind: linux
-      image: mysql/mysql-server:latest
+      image: esanchezv/ubuntu2204:latest
       
