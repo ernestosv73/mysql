@@ -4,5 +4,5 @@ topology:
   nodes:
     db:
       kind: linux
-      image: mysql:8.0.44-debian
+      image: mysql/mysql-server:latest
       
